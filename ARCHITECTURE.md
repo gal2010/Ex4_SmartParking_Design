@@ -10,10 +10,9 @@
 
 | Role | Full Name | Student ID | Braude Academic Email |
 | :--- | :--- | :--- | :--- |
-| **Student A (Role A)** | `[Enter Student A Full Name]` | `[Enter ID]` | `[studentA@e.braude.ac.il]` |
-| **Student B (Role B)** | `[Enter Student B Full Name]` | `[Enter ID]` | `[studentB@e.braude.ac.il]` |
-
-* **Group Number:** `G[XX]`
+| **Student A (Role A)** | Gal Florenthal | 212589469 | gal.florenthal@e.braude.ac.il |
+| **Student B (Role B)** | Segev Morag | 212981906 | segev.morag@e.braude.ac.il |
+| **Student C (Joint)** | Yaakov Fumm | — | yaakov.fumm@e.braude.ac.il |
 * **GitHub Repository URL:** https://github.com/gal2010/Ex4_SmartParking_Design
 
 ---
